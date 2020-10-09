@@ -1,0 +1,16 @@
+{
+    "name": "reza/paradise-bsadmin",
+    "description": "BS Admin Bootstrap theme",
+    "type": "library",
+    "require": {
+        "twbs/bootstrap": "^5.0@alpha"
+    },
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "reza bagheri",
+            "email": "rezabagheri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
