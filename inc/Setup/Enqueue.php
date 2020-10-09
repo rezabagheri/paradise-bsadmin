@@ -14,6 +14,7 @@ class Enqueue
     {
         //wp_enqueue_style( "theme-css", get_template_directory_uri() . "/assets/css/style.css", [], "1.0", "all" );
         wp_enqueue_style( "theme-bootstrap", get_template_directory_uri() . "/vendor/twbs/bootstrap/dist/css/bootstrap.min.css", [], "5.0", "all" );
+        wp_enqueue_style( "volt-css", get_template_directory_uri() . "/assets/css/volt.css", [], "1.0", "all" );
         //wp_enqueue_style( "theme-carosel", get_template_directory_uri() . "/assets/css/carousel.css", [], "1.0", "all" );
     }
 

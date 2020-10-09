@@ -9,7 +9,7 @@ final class Init
         return [
             Setup\Setup::class,
             Setup\Enqueue::class,
-            //Setup\Menus::class,
+            Setup\Menus::class,
             //Woocommerce\Woocommerce::class,
         ];
     }
